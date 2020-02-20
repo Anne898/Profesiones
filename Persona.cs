@@ -18,7 +18,7 @@ namespace Profesiones
        }
 
     public void Decir (){ 
-       Console.WriteLine("Hola, mi nombre es "+this.nombre+" "+this.apellido+" y mi profesion es "+this.profesion);
+       Console.WriteLine("Hola, mi nombre es "+this.nombre+" "+this.apellido+" y mi profesión es "+this.profesion);
 
     }
 
