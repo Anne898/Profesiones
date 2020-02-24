@@ -6,8 +6,8 @@ namespace Profesiones
     {
         static void Main(string[] args)
         {
-          Persona Anne = new Persona("Beatriz","Ramirez","Maestra");
-          Anne.Decir();
+          Persona Beatriz = new Persona("Beatriz","Ramirez","Maestra");
+          Beatriz.Decir();
 
           Persona Diana = new Persona("Diana","Martinez","Programadora");
           Diana.Decir();
